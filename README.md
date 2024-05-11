@@ -56,4 +56,4 @@ Dashboarding questions:
 <br/>
 
 **4. Documentation and Presentation:**
-[PPT Slides](https://docs.google.com/presentation/d/1vkBQzQ5Yor4s2vO_fc6d1YuXuMT_7NIOfx9AQzvYIWU/edit?usp=sharing)
+[PPT Slides](https://github.com/Keerthishankar-Punchithaya/Homeopathic-Medicine-Analytics/blob/main/PRESENTATION%20TITLE.pptx)
